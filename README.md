@@ -1,4 +1,4 @@
-Hey, I’m @Kvoril, also known as Dylan Cohen.
+Hey, I’m @Kvoril, also known as Dylan James Cohen.
 
 I'm messing about with a variety of things within gamedev and cybersecurity. 
 
